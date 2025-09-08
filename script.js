@@ -1,17 +1,30 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
+
+"https://prodcdnmobisoft.oxxodomicilios.com/01HNE7C4JWYQK0909XWSJZ42TV.jpg",
+  "https://comercialpapelera.com.co/tienda/15806-large_default/gansito-37-gr-ramo.jpg",
+  "https://static.merqueo.com/images/products/large/e4a0f37e-2d6c-4321-a75d-cc247bb2410a.jpg",
+  "https://i.ytimg.com/vi/5YVufumpyUE/maxresdefault.jpg",
+  "https://pbs.twimg.com/media/GtK6zaZWEAA8FiY?format=jpg&name=large",
+  "https://s3.pagegear.co/409/productos/13880_800x800.jpg?1736765",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Gansito Zoombiee",
+  "Gansito Tradicional",
+  "Gansito Hohohoo",
+  "Gansito mora-arequipeee",
+  "Gansito bombomm",
+"Gansito chocoososo",
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Distintos sabores te van a cautivar, con arequie, mora y chocolaate te vas a enamorar.",
+  "Su deliciosa cobertura te eriza la piel.",
+  "Acompaña la navidad con un HOHOHOO y cautiva tu corazon",
+  "Un sin fin de sabores que te endulzaran el corazon",
+  "Un solo bocado lleno de sabor",
+  "Animate a aprobar nuestra nueva edicion",
 ];
 
 // Trae los elementos del HTML que tienen ese id

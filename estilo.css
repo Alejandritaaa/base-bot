@@ -23,6 +23,10 @@ body {
 
 h2 {
   font-size: 1.1em;
+  font-family: "Ewert", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(27, 191, 101);
 }
 
 #contenedor {
@@ -32,14 +36,16 @@ h2 {
 }
 
 #tituloPagina {
-  margin-top: 1em;
-  margin-bottom: 0;
-  font-family: sans-serif;
+  font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: darkred;
+  
 }
 
 #foto {
  height: 300px;
-  border: #ff7300 solid 5px;
+  border: #54239d solid 5px;
   margin-top: 15px;
 }
 
@@ -57,8 +63,9 @@ h2 {
 
 #boton {
   font-size: 0.9em;
-  background-color: #3d00fdb5;
+  background-color: #ee2800b5;
   color: white;
   margin-bottom: 2em;
   cursor: pointer;
+  
 }
