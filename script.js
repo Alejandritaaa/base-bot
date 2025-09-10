@@ -1,6 +1,5 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-
 "https://prodcdnmobisoft.oxxodomicilios.com/01HNE7C4JWYQK0909XWSJZ42TV.jpg",
   "https://comercialpapelera.com.co/tienda/15806-large_default/gansito-37-gr-ramo.jpg",
   "https://static.merqueo.com/images/products/large/e4a0f37e-2d6c-4321-a75d-cc247bb2410a.jpg",
